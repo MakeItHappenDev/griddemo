@@ -1,0 +1,30 @@
+{
+  "name": "griddemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakeItHappenDev/griddemo.git"
+  },
+  "author": "Arthur Juchereau + Welbi Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakeItHappenDev/griddemo/issues"
+  },
+  "homepage": "https://github.com/MakeItHappenDev/griddemo#readme",
+  "dependencies": {
+    "next": "^9.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.5",
+    "@types/react": "^16.9.35",
+    "typescript": "^3.9.3"
+  }
+}
